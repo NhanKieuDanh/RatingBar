@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="StarRatingView">
+        <attr name="star_count" format="integer"/>
+        <attr name="star_value" format="float"/>
+
+        <attr name="star_margin" format="dimension"/>
+        <attr name="star_radius" format="dimension"/>
+
+        <attr name="star_normal_color" format="color"/>
+        <attr name="star_fill_color" format="color"/>
+    </declare-styleable>
+</resources>
